@@ -1,0 +1,7 @@
+{
+  "name": "vue-expense-tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
